@@ -15,5 +15,3 @@ This project is currently in an early stage of development, and no functionality
 expected from it right now.
 
 Also, I’m beginning with git, so weirdness is to be expected.
-
-test
