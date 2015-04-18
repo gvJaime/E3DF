@@ -1,0 +1,11 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="37.1mm" height="13.73mm" viewBox="0 0 37.1 13.73" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Airfoil plot (ah7476-il) AH-7-47-6 AIRFOIL by AirfoilTools.com</title>
+<g transform="translate(1.05,10.269)"><g transform="scale(1,-1)"><line fill="none" stroke="green" stroke-width="0.02" x1="10" x2="10" y1="-1.88" y2="10.27"></line><line fill="none" stroke="green" stroke-width="0.02" x1="20" x2="20" y1="-1.88" y2="10.27"></line><line fill="none" stroke="green" stroke-width="0.02" x1="30" x2="30" y1="-1.88" y2="10.27"></line><line fill="none" stroke="green" stroke-width="0.02" x1="-1.05" x2="36.05" y1="10" y2="10"></line>
+<path fill="none" stroke="red" stroke-width="0.04" d="M 35 0.37 L 31.49 3.58 L 27.99 5.73 L 24.49 7.42 L 20.99 8.47 L 17.49 9.06 L 13.99 9.22 L 10.49 9.01 L 6.99 7.97 L 5.24 7.11 L 3.49 5.93 L 2.62 5.13 L 1.74 4.12 L 0.87 2.85 L 0.43 1.9 L 0 0 L 0.44 -0.83 L 0.88 -0.62 L 1.75 -0.34 L 2.63 0.04 L 3.5 0.36 L 5.25 1.12 L 7 1.77 L 10.5 2.87 L 13.99 3.6 L 17.49 3.96 L 20.99 4.06 L 24.49 3.8 L 28 3.06 L 31.5 1.69 L 35 -0.37 "></path>
+<path fill="none" stroke="blue" stroke-width="0.04" d="M 0 0 L 35 0 "></path>
+<line fill="none" stroke="black" stroke-width="0.04" x1="-1.05" x2="36.05" y1="0" y2="0"></line>
+<line fill="none" stroke="black" stroke-width="0.04" x1="0" x2="0" y1="-1.88" y2="10.27"></line>
+</g>
+</g>
+<g transform="translate(0,12.1527)"><g transform="scale(0.35,0.35)"><text fill="rgb(48,48,144)" font-size="1.8" style="font-family:Arial,Helvetica,sans-serif;" x="1" y="2">Name = AH-7-47-6 AIRFOIL</text><text fill="rgb(48,48,144)" font-size="1.8" style="font-family:Arial,Helvetica,sans-serif;" x="1" y="4">Chord = 35mm  Radius = 0mm  Thickness = 300%  Origin = 0%  Pitch = 0&#176; </text></g></g></svg>
